@@ -10,5 +10,6 @@ The proposed project Inventory Management System consist of the following featur
 3.	User roles and permission – assign roles with specific access levels.
 
 D. Work Breakdown Structure
+![WorkBreakDown](https://github.com/user-attachments/assets/cf33b10a-5006-4e08-a719-9cc442c60b78)
 
 
