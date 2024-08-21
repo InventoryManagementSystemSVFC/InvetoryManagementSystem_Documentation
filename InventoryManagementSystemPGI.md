@@ -1,6 +1,6 @@
 # Project General Information
 
-Group Name: Soliman, Cureg, Parico
+Group Name: Soliman, Cureg, Parico, Aldave
 Project Title: Inventory Management System
 
 ## A. Problem Statement:
