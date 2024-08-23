@@ -91,3 +91,8 @@ User Roles and Permissions
 ![image](https://github.com/user-attachments/assets/c5c0dbf9-f737-434f-8b43-c26f97e688fc)
 
 
+
+
+**B. ERD**
+
+![Blank diagram](https://github.com/user-attachments/assets/a4def23c-0f32-4486-abff-78870dc207c8)
