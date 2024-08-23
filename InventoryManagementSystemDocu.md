@@ -1,4 +1,4 @@
-A. INTRODUCTION
+### A. INTRODUCTION
 
 Manually managing inventory is prone to human error, such as miscounts or misplaced records, leading to inaccuracies that can disrupt operations. The Inventory Management System is a critical tool used by businesses of all sizes to manage and control their inventory levels, orders, sales, and deliveries. The primary purpose of an Inventory Management System is to ensure that a business has the right amount of stock at the right time to meet customer demand without overstocking or under stocking. In today’s fast-paced and competitive business environment, an effective Inventory Management System is essential for managing resources efficiently and achieving long-term business success. With real-time data and analytics, owners and managers can make informed decisions about purchasing, sales strategies, and inventory management, leading to better overall business performance. 
 
@@ -6,14 +6,14 @@ An inventory management system's overall goal is to make inventory management mo
 
 
 
-B. Project Features and Characteristics
+### B. Project Features and Characteristics
 
 The proposed project Inventory Management System consist of the following features: 
 1.	Product management – add, update, delete products, manage product category – admin or owner
 2.	Order management – create, update, delete purchase orders, track order status – admin or owner
 3.	User roles and permission – assign roles with specific access levels.
 
-C. Project Scope
+### C. Project Scope
 
 The scope of this project includes the design, development, and implementation of an Inventory Management System tailored to meet the needs of small to medium-sized businesses. The system will cover the following areas:
 
@@ -34,14 +34,14 @@ The scope of this project includes the design, development, and implementation o
 - Customizable dashboards and user interfaces tailored to specific roles.
 
 
-D. Work Breakdown Structure
+### D. Work Breakdown Structure
 
 
 ![WorkBreakDown](https://github.com/user-attachments/assets/cf33b10a-5006-4e08-a719-9cc442c60b78)
 
 
 
-E. Functional Requirements
+### E. Functional Requirements
 
 1. User Requirements
 
@@ -75,5 +75,19 @@ User Roles and Permissions
  
      ![Inventory use case](https://github.com/user-attachments/assets/c55e7c12-3651-4343-9746-f24f3643c27e)
 
-     
+### F. DATA ARCHITECTURE
+**A. Data Dictionary**
+
+**Table 1: Prodtbl**
+![image](https://github.com/user-attachments/assets/c0325e5f-5cb3-4920-ac7c-7dc02a3ad18f)
+
+**Table 2: Usertbl**
+![image](https://github.com/user-attachments/assets/c5ac7c61-7399-4e6f-a349-94bffe28c730)
+
+**Table 3: Ordertbl**
+![image](https://github.com/user-attachments/assets/99c283ba-b385-4103-9f52-58d27af53e91)
+
+**Table 4: Delivertbl**
+![image](https://github.com/user-attachments/assets/c5c0dbf9-f737-434f-8b43-c26f97e688fc)
+
 
