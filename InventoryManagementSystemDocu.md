@@ -18,20 +18,20 @@ C. Project Scope
 The scope of this project includes the design, development, and implementation of an Inventory Management System tailored to meet the needs of small to medium-sized businesses. The system will cover the following areas:
 
 1. Inventory Tracking:
-• Real-time monitoring of stock levels, including automatic updates for incoming and outgoing inventory.
-• Alerts for low stock, overstock, and discrepancies between system data and physical inventory.
+- Real-time monitoring of stock levels, including automatic updates for incoming and outgoing inventory.
+- Alerts for low stock, overstock, and discrepancies between system data and physical inventory.
 
 2. Order Management:
-• Automation of purchase orders, sales orders, and order fulfillment processes.
-• Integration of order processing with inventory updates to ensure accurate stock levels.
+- Automation of purchase orders, sales orders, and order fulfillment processes.
+- Integration of order processing with inventory updates to ensure accurate stock levels.
 
 3. Reporting and Analytics:
-• Generation of detailed reports on inventory levels, sales trends, and supplier performance.
-• Tools for demand forecasting and trend analysis to support decision-making.
+- Generation of detailed reports on inventory levels, sales trends, and supplier performance.
+- Tools for demand forecasting and trend analysis to support decision-making.
 
 4. User Management:
-• Role-based access control, allowing different levels of system access based on user roles (e.g., Admin, Inventory Manager, Sales Staff).
-• Customizable dashboards and user interfaces tailored to specific roles.
+- Role-based access control, allowing different levels of system access based on user roles (e.g., Admin, Inventory Manager, Sales Staff).
+- Customizable dashboards and user interfaces tailored to specific roles.
 
 
 D. Work Breakdown Structure
@@ -72,7 +72,7 @@ User Roles and Permissions
 - Can update order statuses and provide estimated delivery times.
 - Can communicate with the Inventory Manager regarding stock availability and order fulfillment.
 
-  2. Use case
+2. Use case
  
      ![Inventory use case](https://github.com/user-attachments/assets/c55e7c12-3651-4343-9746-f24f3643c27e)
 
