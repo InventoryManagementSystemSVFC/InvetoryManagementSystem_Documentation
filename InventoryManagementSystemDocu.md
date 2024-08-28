@@ -12,26 +12,21 @@ The proposed project Inventory Management System consist of the following featur
 1.	Product Management – add, update, delete products, manage product category – admin or owner
 2.	Order Management – create, update, delete purchase orders, track order status – admin or owner
 3.	User Management – assign roles with specific access levels.
-4.	Inventory Tracking -  Alerts for low stock, overstock, and discrepancies between system data and physical inventory.
-5.	Reporting and Analytics - Generation of detailed reports on inventory levels.
+4.	Reporting and Analytics - Generation of detailed reports on inventory levels.
 
 ### C. Project Scope
 
 The scope of this project includes the design, development, and implementation of an Inventory Management System tailored to meet the needs of small to medium-sized businesses. The system will cover the following areas:
 
-1. Inventory Tracking:
-- Real-time monitoring of stock levels, including automatic updates for incoming and outgoing inventory.
-- Alerts for low stock, overstock, and discrepancies between system data and physical inventory.
-
-2. Order Management:
+1. Order Management:
 - Automation of purchase orders, sales orders, and order fulfillment processes.
 - Integration of order processing with inventory updates to ensure accurate stock levels.
 
-3. Reporting and Analytics:
+2. Reporting and Analytics:
 - Generation of detailed reports on inventory levels, sales trends, and supplier performance.
 - Tools for demand forecasting and trend analysis to support decision-making.
 
-4. User Management:
+3. User Management:
 - Role-based access control, allowing different levels of system access based on user roles (e.g., Admin, Inventory Manager, Sales Staff).
 - Customizable dashboards and user interfaces tailored to specific roles.
 
