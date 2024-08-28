@@ -73,7 +73,8 @@ User Roles and Permissions
 
 2. Use case
  
-   ![Inventory management use case](https://github.com/user-attachments/assets/82ad86a2-0a9f-4e0f-9815-d675e7266c7b)
+  ![Inventory management use case](https://github.com/user-attachments/assets/6413b9d0-a7e1-40ff-88f7-d8ab6238d800)
+
 
 
 ### F. DATA ARCHITECTURE
