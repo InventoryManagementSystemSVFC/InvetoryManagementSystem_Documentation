@@ -16,10 +16,9 @@ The Inventory Management System is designed to streamline and enhance the manage
 ## C. Project Objectives:
 
 Develop Inventory Management System to help manage inventory tracking, order management, and reporting, with the following features:
-1.	Real-time inventory tracking - Monitor stock levels to prevent overstocking or stockouts.
-2.	Automated purchase order generation - Streamline the reordering process.
-3.	Comprehensive reporting and analytics - Provide insights into inventory performance and trends.
-4.	User role management - Ensure proper access control and permissions for different system users.
+1.	Automated purchase order generation - Streamline the reordering process.
+2.	Comprehensive reporting and analytics - Provide insights into inventory performance and trends.
+3.	User role management - Ensure proper access control and permissions for different system users.
 
 
 
