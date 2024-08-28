@@ -9,9 +9,11 @@ An inventory management system's overall goal is to make inventory management mo
 ### B. Project Features and Characteristics
 
 The proposed project Inventory Management System consist of the following features: 
-1.	Product management – add, update, delete products, manage product category – admin or owner
-2.	Order management – create, update, delete purchase orders, track order status – admin or owner
-3.	User roles and permission – assign roles with specific access levels.
+1.	Product Management – add, update, delete products, manage product category – admin or owner
+2.	Order Management – create, update, delete purchase orders, track order status – admin or owner
+3.	User Management – assign roles with specific access levels.
+4.	Inventory Tracking -  Alerts for low stock, overstock, and discrepancies between system data and physical inventory.
+5.	Reporting and Analytics - Generation of detailed reports on inventory levels.
 
 ### C. Project Scope
 
