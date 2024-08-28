@@ -73,7 +73,8 @@ User Roles and Permissions
 
 2. Use case
  
-  ![Inventory management use case](https://github.com/user-attachments/assets/6413b9d0-a7e1-40ff-88f7-d8ab6238d800)
+![Inventory management use case](https://github.com/user-attachments/assets/14fea196-3596-420d-b480-80bacf2d740d)
+
 
 
 
