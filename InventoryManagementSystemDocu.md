@@ -61,10 +61,6 @@ User Roles and Permissions
   - Can place sales orders and check order status.
   - Can access customer information and order history.
   
-  • Warehouse Staff
-  - Can update inventory levels based on physical counts.
-  - Can manage receiving and shipping of goods.
-  - Can update order fulfillment status.
   
    • Supplier
   - Can access purchase orders sent by the Inventory Manager.
