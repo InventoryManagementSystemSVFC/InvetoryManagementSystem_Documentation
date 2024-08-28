@@ -8,23 +8,26 @@ Project Title: Inventory Management System
 
 ## B. Project Description:
 
+The Inventory Management System is designed to streamline and enhance the management of inventory within a retail store. Its main purpose is to improve accuracy, efficiency, and control over inventory processes, ensuring that inventory levels are optimized and operational processes are smooth.
+
+
 
 ## C. Project Objectives:
 
-To develop a SYSTEM_NAME APP that will help manage the ______ with the following features:
-1.
-2.
-3.
-4.
-..
+Develop Inventory Management System to help manage inventory tracking, order management, and reporting, with the following features:
+1.	Real-time inventory tracking - Monitor stock levels to prevent overstocking or stockouts.
+2.	Automated purchase order generation - Streamline the reordering process.
+3.	Comprehensive reporting and analytics - Provide insights into inventory performance and trends.
+4.	User role management - Ensure proper access control and permissions for different system users.
+
 
 
 ## D. Business Benefits:
-1. 
-2. 
-3. 
-4. 
-..
+1.	Increased operational efficiency - Automate inventory management tasks to save time and reduce manual errors.
+2.	Reduced costs - Optimize inventory levels to minimize stockouts and overstocking.
+3.	Enhanced decision-making - Utilize detailed reports and analytics to make informed decisions.
+4.	Improved user access control - Manage security and access with role-based permissions.
+
 
 ## E. Project Deliverables:
     1. Requirements
