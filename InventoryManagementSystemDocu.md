@@ -37,7 +37,8 @@ The scope of this project includes the design, development, and implementation o
 ### D. Work Breakdown Structure
 
 
-![WorkBreakDown](https://github.com/user-attachments/assets/cf33b10a-5006-4e08-a719-9cc442c60b78)
+![DiagramSIA2](https://github.com/user-attachments/assets/9a5539e5-9dcf-49a5-b4e0-52eb0fc2cf32)
+
 
 
 
