@@ -31,14 +31,12 @@ Develop Inventory Management System to help manage inventory tracking, order man
 
 ## E. Project Deliverables:
     1. Requirements
-      • Research and analysis
-      • Data Gathering
-      • User Stories
       • User Requirements
       • Use Case
       • Data Dictionary
-      • Entity Relationship Diagram
-      • Dataflow Diagram
+      • Order Status
+      • Product Requirements and Status
+      • Delivery Requirements and Status
     
     2. Design
       • Low Fidelity
