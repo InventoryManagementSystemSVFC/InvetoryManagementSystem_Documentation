@@ -79,7 +79,7 @@ User Roles and Permissions
 ![image](https://github.com/user-attachments/assets/c0325e5f-5cb3-4920-ac7c-7dc02a3ad18f)
 
 **Table 2: Usertbl**
-![image](https://github.com/user-attachments/assets/c5ac7c61-7399-4e6f-a349-94bffe28c730)
+![image](https://github.com/user-attachments/assets/66a96653-7532-49db-92be-446d35f1eaff)
 
 **Table 3: Ordertbl**
 ![image](https://github.com/user-attachments/assets/99c283ba-b385-4103-9f52-58d27af53e91)
