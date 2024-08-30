@@ -15,7 +15,7 @@ The Inventory Management System is designed to streamline and enhance the manage
 
 ## C. Project Objectives:
 
-Develop Inventory Management System to help manage inventory tracking, order management, and reporting, with the following features:
+Our objective is to develop an Inventory Management System that enhances the efficiency of inventory tracking, optimizes order management processes, and provides comprehensive reporting capabilities, incorporating the following essential features:
 1.	Product Management – add, update, delete products, manage product category – admin or owner
 2.	Order Management – create, update, delete purchase orders, track order status – admin or owner
 3.	User Management – assign roles with specific access levels.
