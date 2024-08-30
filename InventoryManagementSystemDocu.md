@@ -75,7 +75,7 @@ User Roles and Permissions
 ### F. DATA ARCHITECTURE
 **A. Data Dictionary**
 
-**Table 1: Prodtbl**
+**Table 1: Producttbl**
 ![image](https://github.com/user-attachments/assets/c0325e5f-5cb3-4920-ac7c-7dc02a3ad18f)
 
 **Table 2: Usertbl**
