@@ -5,7 +5,7 @@ Project Title: Inventory Management System
 
 ## A. Problem Statement:
 
-In the retail industry, managing inventory effectively can be a complex and challenging task. Retail stores often face issues such as inaccurate inventory tracking, inefficient order management, and inadequate reporting. These problems can lead to stockouts, overstocking, and loss of sales, as well as increased operational costs. The lack of a streamlined system to manage inventory processes results in manual errors, delayed decision-making, and inefficient use of resources. To address these challenges, a comprehensive inventory management system is needed to improve accuracy, efficiency, and control over inventory processes.
+In the retail industry, managing inventory effectively is complex and challenging. Retail stores often struggle with issues like inefficient order management, inadequate reporting, and inaccurate processes. These problems can lead to stockouts, overstocking, lost sales, and higher operational costs. Without a streamlined system, manual errors, delays in decision-making, and resource inefficiencies are common. A comprehensive inventory management system is essential to improve accuracy, efficiency, and control over these processes.
 
 ## B. Project Description:
 
