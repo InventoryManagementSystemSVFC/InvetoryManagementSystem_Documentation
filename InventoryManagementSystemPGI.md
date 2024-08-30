@@ -54,9 +54,12 @@ Develop Inventory Management System to help manage inventory tracking, order man
       • User Acceptance Testing
 
 ## F. Benchmarking
-  1. ex. Shopee
+      1. Shopify
+      2. Lightspeed Retail
+      3. Vend by Lightspeed
+      4. Retail Pro
 
 ## G. Estimated Project Duration:
-
+    4 months
 
 Prepared by:
