@@ -43,27 +43,7 @@ The scope of this project includes the design, development, and implementation o
 
 1. User Requirements
 
-User Roles and Permissions
-
-  • Admin
-  - Can access and manage all aspects of the system, including user management, inventory settings, and system configurations.
-  - Can generate and view all reports and analytics.
-  
-  • Inventory Manager
-  - Can add, update, and delete inventory items.
-  - Can manage purchase orders and suppliers.
-  - Can generate inventory reports and monitor stock levels.
-  
-  • Sales Staff
-  - Can view available inventory levels.
-  - Can place sales orders and check order status.
-  - Can access customer information and order history.
-  
-  
-   • Supplier
-  - Can access purchase orders sent by the Inventory Manager.
-  - Can update order statuses and provide estimated delivery times.
-  - Can communicate with the Inventory Manager regarding stock availability and order fulfillment.
+![image](https://github.com/user-attachments/assets/f76f4054-7745-4ab5-b8b7-df9a97f4b5d4)
 
 2. Use case
  
