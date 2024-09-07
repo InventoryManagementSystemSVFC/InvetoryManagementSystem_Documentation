@@ -47,7 +47,8 @@ The scope of this project includes the design, development, and implementation o
 
 2. Use case
  
-![Inventory management use case](https://github.com/user-attachments/assets/14fea196-3596-420d-b480-80bacf2d740d)
+![image](https://github.com/user-attachments/assets/1d0545ed-25f4-47d5-a573-ee9a346796ad)
+
 
 
 
