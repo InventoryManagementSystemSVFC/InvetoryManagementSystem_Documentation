@@ -65,6 +65,6 @@ To develop an Inventory Management System that optimizes order management proces
       4. Retail Pro
 
 ## G. Estimated Project Duration:
-    4 months
+    5 months
 
 Prepared by:
