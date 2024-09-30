@@ -55,22 +55,45 @@ The scope of this project includes the design, development, and implementation o
 ### F. DATA ARCHITECTURE
 **A. Data Dictionary**
 
-**Table 1: Producttbl**
-![image](https://github.com/user-attachments/assets/c0325e5f-5cb3-4920-ac7c-7dc02a3ad18f)
+**Table 1: Product_tbl**
 
-**Table 2: Usertbl**
-![image](https://github.com/user-attachments/assets/66a96653-7532-49db-92be-446d35f1eaff)
+![product](https://github.com/user-attachments/assets/54a1f20a-1993-4be1-8c62-692c06d8c520)
 
-**Table 3: Ordertbl**
-![image](https://github.com/user-attachments/assets/99c283ba-b385-4103-9f52-58d27af53e91)
+**Table 2: User_tbl**
 
-**Table 4: Delivertbl**
-![image](https://github.com/user-attachments/assets/c5c0dbf9-f737-434f-8b43-c26f97e688fc)
+![user](https://github.com/user-attachments/assets/ce72ebe0-ca3c-40c1-a3e2-2ff394aa584e)
+
+
+**Table 3: Order_tbl**
+
+![Orders](https://github.com/user-attachments/assets/3f209153-6026-46e1-ae14-4d4e2bde3cff)
+
+**Table 4: Catergory_tbl**
+
+![Categories](https://github.com/user-attachments/assets/46623262-d3cb-4e46-b72a-768c5878d2c2)
+
+**Table 5: Sales_tbl**
+
+![image](https://github.com/user-attachments/assets/1744020b-b59a-4f76-8c16-6ab123cc6722)
+
+
+**Table 6: Order_history_tbl**
+
+![image](https://github.com/user-attachments/assets/ea51beab-2b3e-42dd-86fd-d2876723bcd0)
+
+
+**Table 7: Delivery_tbl**
+
+![image](https://github.com/user-attachments/assets/2330ed74-dbda-4d0f-af7b-9422f3a8f3e6)
+
+**Table 8: Sold_Item_tbl**
+
+![image](https://github.com/user-attachments/assets/6f6fcfcc-85e2-4f39-9c3c-7cec973b8d54)
 
 
 
 
 **B. ERD**
 
-![Blank diagram (1)](https://github.com/user-attachments/assets/6ff9c053-272c-4ea3-8dcd-d10a65cec22c)
+![INVENTORY ERD](https://github.com/user-attachments/assets/ecf2f168-8454-46a6-bcf0-b6bc2cbbf449)
 
