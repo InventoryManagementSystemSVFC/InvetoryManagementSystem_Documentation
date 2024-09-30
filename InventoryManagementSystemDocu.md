@@ -103,3 +103,6 @@ The scope of this project includes the design, development, and implementation o
 
 ![INVENTORY ERD](https://github.com/user-attachments/assets/52243da4-0211-4b0c-a4e8-e88247f30a6e)
 
+**LUCID CHART LINK**
+https://lucid.app/lucidchart/9f23ffdb-a867-4eaf-bebf-14281c6544ba/edit?viewport_loc=-2630%2C-970%2C2560%2C1184%2C0_0&invitationId=inv_77480624-94f3-4686-aac6-35a6fb594bb1
+
