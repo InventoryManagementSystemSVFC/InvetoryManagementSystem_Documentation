@@ -11,6 +11,8 @@ Research suggests that advanced systems like RFID and methodologies such as Vend
 
 Moreover, the use of key performance indicators (KPIs) like inventory levels, product availability, and order frequency allows retailers to monitor and optimize their stock, ultimately improving decision-making and reducing financial loss. This further supports the need for a comprehensive inventory management system tailored to small and medium-sized retailers (Munoz Macas et al., 2021).
 
+(Munoz Macas, C. V., Espinoza Aguirre, J. A., Arcentales-Carrion, R., & Pena, M. (2021). Inventory management for retail companies: A literature review and current trends. Proceedings of the 2021 IEEE International Conference on Information Systems and Software Technologies (ICI2ST). https://doi.org/10.1109/ICI2ST51859.2021.00018)
+
 ## B. Project Description:
 
 The Inventory Management System is designed to streamline and enhance the management of inventory within a retail store. Its main purpose is to improve accuracy, efficiency, and control over inventory processes, ensuring that inventory levels are optimized and operational processes are smooth.
