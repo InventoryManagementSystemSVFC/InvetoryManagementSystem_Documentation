@@ -57,43 +57,49 @@ The scope of this project includes the design, development, and implementation o
 
 **Table 1: Product_tbl**
 
-![product](https://github.com/user-attachments/assets/54a1f20a-1993-4be1-8c62-692c06d8c520)
+![image](https://github.com/user-attachments/assets/9133e147-2d28-4fd1-b1ef-fa5f3ca59753)
+
 
 **Table 2: User_tbl**
 
-![user](https://github.com/user-attachments/assets/ce72ebe0-ca3c-40c1-a3e2-2ff394aa584e)
+![image](https://github.com/user-attachments/assets/01a417c6-23fc-42b5-99e4-3142c0a6bde2)
+
 
 
 **Table 3: Order_tbl**
 
-![Orders](https://github.com/user-attachments/assets/3f209153-6026-46e1-ae14-4d4e2bde3cff)
+![image](https://github.com/user-attachments/assets/d789bb44-c719-4f89-a488-b144c26fe097)
 
 **Table 4: Catergory_tbl**
 
-![Categories](https://github.com/user-attachments/assets/46623262-d3cb-4e46-b72a-768c5878d2c2)
+![image](https://github.com/user-attachments/assets/5c162e6d-d3a3-4648-88e5-3aa7e2a5732a)
 
 **Table 5: Sales_tbl**
 
-![image](https://github.com/user-attachments/assets/1744020b-b59a-4f76-8c16-6ab123cc6722)
+![image](https://github.com/user-attachments/assets/90c2735b-a319-458c-8d01-31fe2063c0d6)
+
 
 
 **Table 6: Order_history_tbl**
 
-![image](https://github.com/user-attachments/assets/ea51beab-2b3e-42dd-86fd-d2876723bcd0)
+![image](https://github.com/user-attachments/assets/7d830008-141b-4d4b-a965-5c304ed98b71)
+
 
 
 **Table 7: Delivery_tbl**
 
-![image](https://github.com/user-attachments/assets/2330ed74-dbda-4d0f-af7b-9422f3a8f3e6)
+![image](https://github.com/user-attachments/assets/eb03a8cc-5fa1-4f3a-bc6b-78f16705921a)
+
 
 **Table 8: Sold_Item_tbl**
 
-![image](https://github.com/user-attachments/assets/6f6fcfcc-85e2-4f39-9c3c-7cec973b8d54)
+![image](https://github.com/user-attachments/assets/071327a7-4ef4-47eb-842f-e1fd5441eb92)
+
 
 
 
 
 **B. ERD**
 
-![INVENTORY ERD](https://github.com/user-attachments/assets/ecf2f168-8454-46a6-bcf0-b6bc2cbbf449)
+![INVENTORY ERD](https://github.com/user-attachments/assets/52243da4-0211-4b0c-a4e8-e88247f30a6e)
 
