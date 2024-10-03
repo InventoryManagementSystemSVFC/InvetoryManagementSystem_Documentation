@@ -23,46 +23,33 @@ The Inventory Management System is designed to streamline and enhance the manage
 
 To develop an Inventory Management System that optimizes order management processes and offers comprehensive reporting capabilities to support effective decision-making.
 
-1.	Optimize order management processes by enabling the creation, updating, and deletion of purchase orders, and tracking order status.
-2.	Develop robust product management capabilities:
-       - Add, update, and delete products.
-       - Manage product categories.
-       - Access controlled by administrators or owners.
-3.	Implement user management features to assign roles with specific access levels.
-4.	Incorporate reporting and analytics for generating detailed reports on inventory levels, supporting informed decision-making.
+| No. | Objective                                                                                                                     |
+|-----|-------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Optimize order management processes by enabling the creation, updating, and deletion of purchase orders, and tracking order status. |
+| 2   | Develop robust product management capabilities: <br> - Add, update, and delete products. <br> - Manage product categories. <br> - Access controlled by administrators or owners. |
+| 3   | Implement user management features to assign roles with specific access levels.                                                |
+| 4   | Incorporate reporting and analytics for generating detailed reports on inventory levels, supporting informed decision-making.   |
 
 
 
 ## D. Business Benefits:
-1.	Increased operational efficiency - Automate inventory management tasks to save time and reduce manual errors.
-2.	Reduced costs - Optimize inventory levels to minimize stockouts and overstocking.
-3.	Enhanced decision-making - Utilize detailed reports and analytics to make informed decisions.
-4.	Improved user access control - Manage security and access with role-based permissions.
+| No. | Benefit                                                                                                                   |
+|-----|---------------------------------------------------------------------------------------------------------------------------|
+| 1   | Increased operational efficiency - Automate inventory management tasks to save time and reduce manual errors.              |
+| 2   | Reduced costs - Optimize inventory levels to minimize stockouts and overstocking.                                          |
+| 3   | Enhanced decision-making - Utilize detailed reports and analytics to make informed decisions.                             |
+| 4   | Improved user access control - Manage security and access with role-based permissions.                                    |
 
 
 ## E. Project Deliverables:
-    1. Requirements
-      • User Requirements
-      • Use Case
-      • Data Dictionary
-      • Order Status
-      • Product Requirements and Status
-      • Delivery Requirements and Status
-    
-    2. Design
-      • Low Fidelity
-      • High Fidelity
-      • Prototype
-    
-    4. Development
-       
-    
-    6. Test
-      • Functional
-      • Non-Functional
-    
-    8. Deploy
-      • User Acceptance Testing
+| No. | Phase           | Tasks                                                                 |
+|-----|-----------------|----------------------------------------------------------------------|
+| 1   | Requirements     | - Research and analysis <br> - Data Gathering <br> - User Stories <br> - User Requirements <br> - Use Case <br> - Data Dictionary <br> - Entity Relationship Diagram <br> - Dataflow Diagram |
+| 2   | Design           | - Low Fidelity <br> - High Fidelity <br> - Prototype                |
+| 3   | Development      | - Development                                                       |
+| 4   | Test             | - Functional <br> - Non-Functional                                  |
+| 5   | Deploy           | - User Acceptance Testing                                           |
+
 
 ## F. Benchmarking
       1. Shopify
