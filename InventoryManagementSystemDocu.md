@@ -56,44 +56,74 @@ The scope of this project includes the design, development, and implementation o
 **A. Data Dictionary**
 
 **Table 1: Product_tbl**
-
-![image](https://github.com/user-attachments/assets/9133e147-2d28-4fd1-b1ef-fa5f3ca59753)
+| Field Type | Data Type     | Description | Constraints |
+|------------|---------------|-------------|-------------|
+| Prod_Id    | Integer(INT)  | Unique Identification of Product.   | Primary Key,Auto Increment.
+| Prod_Name  | Varchar       | Name of brand of the product. | Not Null, Max Length 50
+| Category_Id| Integer(INT)  | Foreign Key From category table.    | Foreign Key to Category_tbl.Category_Id
 
 
 **Table 2: User_tbl**
-
-![image](https://github.com/user-attachments/assets/01a417c6-23fc-42b5-99e4-3142c0a6bde2)
-
+| Field Type | Data Type     | Description | Constraints |
+|------------|---------------|-------------|-------------|
+| User_Id    | Integer(INT)  | Unique Identification of User. | Primary Key, Auto Increment |
+| User_Name  | Varchar       | Name of brand of the User. | Not Null, Max Length 50 |
+| User_Email | Varchar  | Email of the User | Not Null|
+| User_Passwod| Varchar | Password of the User | Not Null|
+| User_Role | Varchar | Defines the role or access level of the User. | Not Null, Default 'user' |
 
 
 **Table 3: Order_tbl**
+| Field Type | Data Type     | Description | Constraints |
+|------------|---------------|-------------|-------------|
+| Order_Id    | Integer(INT)  | Unique Identification of Orders. | Primary Key, Auto Increment |
+| Order_Date  | Date       | Date of order. | Not Null |
+| Status | Varchar  | Status of the order (pending, cancelled, etc.). | Not Null, Default 'pending'|
 
-![image](https://github.com/user-attachments/assets/d789bb44-c719-4f89-a488-b144c26fe097)
 
 **Table 4: Catergory_tbl**
-
-![image](https://github.com/user-attachments/assets/5c162e6d-d3a3-4648-88e5-3aa7e2a5732a)
+| Field Type | Data Type     | Description | Constraints |
+|------------|---------------|-------------|-------------|
+| Category_Id    | Integer(INT)  | Unique Identification of Categories. | Primary Key, Auto Increment |
+| Category_Name  | Varchar       | Name of the Category. | Not Null |
 
 **Table 5: Sales_tbl**
-
-![image](https://github.com/user-attachments/assets/90c2735b-a319-458c-8d01-31fe2063c0d6)
+| Field Type | Data Type     | Description | Constraints |
+|------------|---------------|-------------|-------------|
+| Sales_Id    | Integer(INT)  | Unique Identification of Sale. | Primary Key, Auto Increment |
+| Order_Id  | Integer(INT)       | Foreign key from Order_tbl. | Foreign key to User_tbl.Order_Id |
+| User_Id | Integer(INT)  | Foreign key from User_tbl | Foreign key to User_tbl.User_Id |
+| Sale_Amount| Integer(INT) | The total monetary value of the sale transaction. | Not Null|
+| Sale_Date | Date | The date when the sale transaction was completed. | Not Null |
 
 
 
 **Table 6: Order_history_tbl**
+| Field Type | Data Type     | Description | Constraints |
+|------------|---------------|-------------|-------------|
+| History_Id    | Integer(INT)  | Unique Identification of Order log. | Primary Key, Auto Increment |
+| Order_Id  | Integer(INT)       | Foreign key from Order_tbl. | Foreign key to Order_tbl.Order_Id |
+| Status | Varchar  | Order history status (delivered, canceled). | Not Null |
+| Update_Date| Date | The date when the order's history was last updated or modified. | Not Null |
 
-![image](https://github.com/user-attachments/assets/7d830008-141b-4d4b-a965-5c304ed98b71)
 
 
 
 **Table 7: Delivery_tbl**
-
-![image](https://github.com/user-attachments/assets/eb03a8cc-5fa1-4f3a-bc6b-78f16705921a)
+| Field Type | Data Type     | Description | Constraints |
+|------------|---------------|-------------|-------------|
+| Delivery_Id    | Integer(INT)  | Unique Identification of Delivery. | Primary Key, Auto Increment |
+| Order_Id  | Integer(INT)       | Foreign key to Order_tbl. | Foreign key to Order_tbl.Order_Id,Not Null |
+| Delivery_Date | Date  | Date of Delivery. | Not Null |
 
 
 **Table 8: Sold_Item_tbl**
-
-![image](https://github.com/user-attachments/assets/071327a7-4ef4-47eb-842f-e1fd5441eb92)
+| Field Type | Data Type     | Description | Constraints |
+|------------|---------------|-------------|-------------|
+| ItemSold_Id    | Integer(INT)  | Unique Identification of Sold Items. | Primary Key, Auto Increment |
+| Sale_Id  | Integer(INT)       | Foreign key to Sale_tbl. | Foreign key to Sale_tbl.Sale_Id, Not Null |
+| Prod_Id | Integer(INT)  | Foreign key to Product_tbl. | Foreign key to Product_tbl.Product_Id, Not Null |
+| Quantity | Integer(INT) | Quantity of each item sold. | Not Null |
 
 
 
