@@ -43,7 +43,7 @@ The scope of this project includes the design, development, and implementation o
 
 1. User Requirements
 
-| USER ROLES AND PERMISSION | |
+| USER ROLES | PERMISSIONS    |
 |------------|---------------|
 | ADMIN    |Can access and manage all aspects of the system, including user management, inventory settings, and system configurations.  | 
 |          |Can generate and view all reports and analytics.  | 
