@@ -135,7 +135,7 @@ The scope of this project includes the design, development, and implementation o
 |------------|---------------|-------------|-------------|
 | ItemSold_Id    | Integer(INT)  | Unique Identification of Sold Items. | Primary Key, Auto Increment |
 | Sale_Id  | Integer(INT)       | Foreign key to Sale_tbl. | Foreign key to Sale_tbl.Sale_Id, Not Null |
-| Prod_Id | Integer(INT)  | Foreign key to Product_tbl. | Foreign key to Product_tbl.Product_Id, Not Null |
+| Prod_Id | Integer(INT)  | Foreign key to Product_tbl. | Foreign key to Product_tbl.Prod_Id, Not Null |
 | Quantity | Integer(INT) | Quantity of each item sold. | Not Null |
 
 **Table 9: Inventory_tbl**
