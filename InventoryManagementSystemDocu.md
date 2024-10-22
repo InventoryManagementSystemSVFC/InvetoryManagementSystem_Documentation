@@ -141,10 +141,10 @@ The scope of this project includes the design, development, and implementation o
 **Table 9: Inventory_tbl**
  Field Name        | Data Type   | Description                      | Contraints|
 |-------------------|-------------|----------------------------------|-----------|
-| inventory_id      | INT         | Primary key                      ||
-| prod_id           | INT         | Foreign key linking to Product_tbl||
-| stock_level       | INT         | Quantity in stock                ||
-| reorder_level     | INT         | Minimum stock level before reorder||
+| inventory_id      | INT         | Primary key                      ||Primary Key, Auto Increment
+| prod_id           | INT         | Foreign key linking to Product_tbl|| Foreign key to Product_tbl.Prod_Id, Not Null
+| stock_level       | INT         | Quantity in stock                || Not null
+| reorder_level     | INT         | Minimum stock level before reorder|| Not null
 
 
 
