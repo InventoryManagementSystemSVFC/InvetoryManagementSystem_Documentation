@@ -60,7 +60,7 @@ The scope of this project includes the design, development, and implementation o
 
 2. Use case
  
-![image](https://github.com/user-attachments/assets/ac9b919b-3d91-4959-82c8-aa698022165a)
+![image](https://github.com/user-attachments/assets/9f183d59-b85d-43f6-a740-40d0fcb6be5a)
 
 
 
